@@ -1,6 +1,22 @@
+<!-- (Document type declaration) DOCTYPE html
+ Sebuah kode yang mengindifikasikan bahwa dokumen tersebut adalah halaman HTML,
+yang berfungsi memberitahukan peramban (browser) bahwa kode yang akan dijalankan adalah kode
+bahasa markup (Markup sendiri adalah bahasa pemograman) -->
 <!DOCTYPE html>
+
+<!-- (Hypertext Markup Language) html
+ Suatu bahasa yang dirancang untuk ditampilkan di peramban internet 
+yang di bantu oleh teknologi salah satu contohnya adalah Cascading style, visual code dll 
+ Sedangakan atribut (lang) 
+Adalah suatu atribuat untuk menyatakan bahasa halaman Web yang kita buat,
+yang bertujuan untuk membantu mesin telusur (search engine) 
+dan untuk mendefinisikan sigkatan-singkatan kode bahasa -->
 <html lang="en">
-	<head>
+
+<!-- (Head) 
+ Digunakan untuk menyediakan informasi meta tentang halaman web kepada browser
+atau juga head sendiri mengartikan kepala, yang mendefinisikan awalan dari suatu program -->
+<head>
 
 		<style>
             body{
